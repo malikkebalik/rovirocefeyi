@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rovirocefeyi.pages.dev/sitemap.xml
